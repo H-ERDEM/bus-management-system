@@ -178,11 +178,18 @@ SELECT sofor_otobus_kazanc_hesapla(1, '44M123');
 
 ---
 
-## 👩‍💻 Developer
+## 👩‍💻 Developers
 
-**Hayrunnisa Büşra Erdem**
-Computer Engineering Student
+- **Hayrunnisa Büşra Erdem**  
+  🔗 GitHub: https://github.com/H-ERDEM  
 
+- **Ömer Burak Karakaya**  
+  🔗 GitHub: https://github.com/omerburakkarakaya0
+---
+
+⭐ If you like this project, don't forget to give it a star!
+
+⭐ Projeyi beğendiyseniz yıldızlamayı unutmayın!
 ---
 
 ## 📌 Notes
