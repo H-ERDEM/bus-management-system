@@ -1,6 +1,7 @@
 # 🚌 Bus Management System (Relational Database Project)
 
-![ER Diagram](img/er_diagram.png)
+<img width="5636" height="2290" alt="image" src="https://github.com/user-attachments/assets/7957a6d1-e78c-40c3-badb-4486a92fe7f3" />
+
 
 ## 📌 Overview
 
